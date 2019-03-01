@@ -1,0 +1,53 @@
+	.quiz-frm
+	{
+		max-width: 50%;
+		position: relative;
+		left: 22%;
+		top: 50px;
+	}
+	
+	.caption
+	{
+		position: relative;
+		left: 42%;
+	}
+	
+	.enter-test
+	{
+		position: relative;
+		left: 45%;
+	}
+	
+	.ans-btn
+   {
+		width: 46%;
+		height: 88px;
+   }
+   
+   .quiz-frm 
+   {
+		max-width: 50%;
+		position: relative;
+		left: 22%;
+		top: 50px;
+   }
+   
+   .ans-set-2
+   {
+		position: absolute;
+		width: 100%;
+		top: 16%;
+		left: 74%;
+   }
+   
+   .enter-test
+   {
+		width: 60%;
+		position: relative;
+		left: 25%;
+   }
+   
+   .result-data
+   {
+	    display:none;
+   }
